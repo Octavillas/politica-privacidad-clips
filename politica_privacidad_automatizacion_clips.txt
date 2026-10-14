@@ -1,0 +1,98 @@
+POLÍTICA DE PRIVACIDAD Y USO
+Web de automatización y edición de clips
+Última actualización: 13 de octubre de 2026
+
+IMPORTANTE
+Este documento es un modelo inicial para adaptar a tu servicio. Antes de publicarlo, reemplaza los campos entre corchetes y verifica que cumpla las leyes aplicables en los países donde operes. No constituye asesoría legal.
+
+1. IDENTIDAD DEL RESPONSABLE
+El servicio [NOMBRE DE LA WEB], disponible en [URL DEL SITIO], es operado por [NOMBRE O RAZÓN SOCIAL], con domicilio en [PAÍS/CIUDAD] y correo de contacto [CORREO DE PRIVACIDAD]. En esta política, “nosotros” se refiere al responsable del servicio.
+
+2. ALCANCE DEL SERVICIO
+La plataforma permite a los usuarios cargar, procesar, recortar, subtitular, adaptar, organizar y exportar videos o clips mediante herramientas automatizadas. Las funciones disponibles pueden cambiar con el tiempo. Algunas tareas podrían ser procesadas por proveedores tecnológicos externos.
+
+3. INFORMACIÓN QUE PODEMOS RECOPILAR
+Según las funciones que utilices, podemos recopilar:
+• Datos de cuenta: nombre, correo electrónico, identificadores de acceso y preferencias.
+• Contenido aportado: videos, audios, imágenes, textos, subtítulos, instrucciones y archivos que cargues.
+• Datos de uso: funciones utilizadas, historial de tareas, errores, duración del procesamiento y registros técnicos.
+• Datos del dispositivo y conexión: dirección IP, navegador, sistema operativo, identificadores técnicos y cookies necesarias.
+• Datos de pago: si existen planes de pago, la transacción podrá ser gestionada por un proveedor de pagos. No almacenaremos los datos completos de tu tarjeta salvo que se indique expresamente y exista una base legal y medidas de seguridad adecuadas.
+
+4. FINALIDADES DEL TRATAMIENTO
+Utilizamos la información para:
+• Crear y administrar cuentas.
+• Procesar archivos y generar clips según las instrucciones del usuario.
+• Guardar proyectos, resultados y preferencias cuando la plataforma lo permita.
+• Mantener, proteger y mejorar el servicio, detectar fallos y prevenir fraudes o usos abusivos.
+• Gestionar pagos, suscripciones, soporte y comunicaciones operativas.
+• Cumplir obligaciones legales y responder a solicitudes legítimas de autoridades.
+No utilizaremos el contenido privado de los usuarios para publicidad ni para entrenar modelos de inteligencia artificial, salvo que se informe de forma clara y se obtenga el consentimiento cuando corresponda.
+
+5. BASE LEGAL Y CONSENTIMIENTO
+Cuando la legislación aplicable lo requiera, trataremos datos sobre la base del consentimiento, la ejecución del contrato, el cumplimiento de obligaciones legales o un interés legítimo debidamente evaluado. Puedes retirar el consentimiento cuando corresponda; esto no afecta la legalidad del tratamiento realizado antes de retirarlo.
+
+6. ARCHIVOS, DERECHOS Y RESPONSABILIDAD DEL USUARIO
+Conservas los derechos que ya tengas sobre los videos, audios, imágenes y demás materiales que cargues. Al utilizar la plataforma, nos otorgas una autorización limitada, no exclusiva y temporal para alojar, reproducir técnicamente, analizar y procesar esos materiales únicamente en la medida necesaria para prestar las funciones que solicites.
+Declaras que tienes los derechos, licencias y permisos necesarios para cargar y procesar el contenido, incluidos los permisos de las personas que aparezcan o se escuchen en él cuando sean exigibles. No debes cargar material que infrinja derechos de autor, marcas, privacidad, imagen u otros derechos de terceros, ni contenido ilícito.
+La plataforma no adquiere la propiedad de tus archivos por el mero hecho de procesarlos. Eres responsable de revisar los resultados generados antes de publicarlos o distribuirlos.
+
+7. CONTENIDO DE TERCEROS Y DERECHOS DE AUTOR
+No debes utilizar el servicio para descargar, copiar, transformar o distribuir material sin autorización cuando esta sea necesaria. El hecho de que un video esté disponible públicamente no significa que puedas reutilizarlo libremente. Las excepciones legales, como ciertos usos permitidos, dependen de la jurisdicción y de las circunstancias.
+Podremos restringir o retirar contenido y suspender cuentas cuando recibamos una reclamación válida o existan motivos razonables para considerar que se ha infringido esta política o la ley. Para reportar una posible infracción, escribe a [CORREO DE CONTACTO LEGAL] e incluye la URL o identificación del contenido, la obra afectada, una explicación de la reclamación y tus datos de contacto.
+
+8. PROVEEDORES Y TRANSFERENCIAS
+Podemos utilizar proveedores de alojamiento, almacenamiento, procesamiento de video, inteligencia artificial, análisis, autenticación, correo electrónico y pagos. Estos proveedores solo deben acceder a los datos necesarios para prestar sus servicios y estarán sujetos a las condiciones y obligaciones correspondientes.
+Algunos proveedores pueden procesar información fuera de tu país. Cuando la legislación lo exija, aplicaremos las garantías necesarias para las transferencias internacionales. Añade aquí los nombres y enlaces a las políticas de los proveedores que realmente utilices: [LISTA DE PROVEEDORES].
+
+9. PLAZOS DE CONSERVACIÓN Y ELIMINACIÓN
+Conservaremos los datos solo durante el tiempo necesario para las finalidades descritas, cumplir obligaciones legales, resolver controversias y proteger el servicio. Los archivos originales, clips exportados y proyectos podrán eliminarse automáticamente después de [PLAZO DE CONSERVACIÓN] o antes, si el usuario solicita su eliminación y no existe una razón legal para conservarlos.
+Las copias de seguridad pueden permanecer durante un periodo limitado hasta que se sobrescriban conforme al ciclo de respaldo. Antes de publicar esta política, define plazos reales y asegúrate de que el sistema los cumpla.
+
+10. SEGURIDAD
+Aplicamos medidas técnicas y organizativas razonables para proteger los datos frente a pérdida, acceso no autorizado, alteración o divulgación. Ningún sistema de transmisión o almacenamiento puede garantizar seguridad absoluta. Si ocurre un incidente que deba notificarse conforme a la ley, seguiremos el procedimiento y los plazos aplicables.
+
+11. COOKIES Y TECNOLOGÍAS SIMILARES
+Podemos utilizar cookies necesarias para iniciar sesión, proteger la plataforma y recordar preferencias. Si utilizamos cookies analíticas o publicitarias no esenciales, solicitaremos consentimiento cuando la normativa lo requiera y ofreceremos mecanismos para gestionarlas. La configuración del navegador también puede permitir bloquear o eliminar cookies, aunque algunas funciones podrían dejar de funcionar.
+
+12. DERECHOS Y SOLICITUDES DE LOS USUARIOS
+Según la ley aplicable, puedes tener derecho a solicitar acceso, rectificación, actualización, eliminación, oposición, limitación del tratamiento, portabilidad o retirada del consentimiento, así como a presentar una reclamación ante la autoridad competente.
+Para ejercer tus derechos, contacta a [CORREO DE PRIVACIDAD] desde la dirección asociada a tu cuenta e indica tu solicitud. Podremos pedir información razonable para verificar tu identidad. Responderemos dentro de los plazos establecidos por la legislación aplicable.
+
+13. PRIVACIDAD DE MENORES
+El servicio no está dirigido a menores que no puedan consentir válidamente conforme a la legislación aplicable. Si crees que un menor nos ha proporcionado datos personales sin la autorización necesaria, contacta a [CORREO DE PRIVACIDAD] para que evaluemos y, cuando corresponda, eliminemos la información.
+
+14. USOS PROHIBIDOS
+Está prohibido utilizar la plataforma para:
+• Infringir derechos de autor, marcas, privacidad, imagen o cualquier otro derecho.
+• Crear o distribuir contenido ilegal, fraudulento, amenazante, abusivo o engañoso.
+• Suplantar personas o generar contenido sintético que pueda causar daño o confusión de forma ilícita.
+• Introducir malware, intentar acceder sin autorización a sistemas o interferir con el funcionamiento del servicio.
+• Evadir límites técnicos, abusar de la infraestructura o utilizar el servicio de forma contraria a la ley.
+Podremos investigar reportes, limitar funciones o suspender cuentas ante incumplimientos, respetando la legislación aplicable.
+
+15. DISPONIBILIDAD Y LIMITACIONES
+La automatización puede producir errores de recorte, transcripción, subtitulado, detección de escenas, formato o calidad. No garantizamos que los resultados sean exactos, estén libres de errores o sean adecuados para todos los usos. El usuario debe revisar los clips antes de publicarlos. Salvo que la ley lo prohíba, el servicio se ofrece sujeto a su disponibilidad y no garantizamos un funcionamiento ininterrumpido.
+
+16. CAMBIOS EN ESTA POLÍTICA
+Podemos actualizar esta política para reflejar cambios en el servicio, proveedores o requisitos legales. Publicaremos la versión vigente en [URL DE LA POLÍTICA] e indicaremos la fecha de actualización. Cuando la ley lo requiera, notificaremos los cambios importantes y solicitaremos consentimiento.
+
+17. LEY APLICABLE Y CONTACTO
+Esta política se interpretará de acuerdo con las leyes aplicables al responsable y al usuario, sin limitar los derechos irrenunciables que correspondan. Si el servicio opera en Ecuador, revisa específicamente las obligaciones de la Ley Orgánica de Protección de Datos Personales y su normativa relacionada.
+Contacto:
+Responsable: [NOMBRE O RAZÓN SOCIAL]
+Correo de privacidad: [CORREO DE PRIVACIDAD]
+Dirección: [DIRECCIÓN COMERCIAL]
+Sitio web: [URL DEL SITIO]
+
+LISTA DE VERIFICACIÓN ANTES DE PUBLICAR
+[ ] Completar todos los campos entre corchetes.
+[ ] Confirmar qué datos recoge realmente la web.
+[ ] Identificar los proveedores de IA, hosting, almacenamiento, analítica y pagos.
+[ ] Definir plazos reales de conservación y borrado de archivos.
+[ ] Implementar mecanismos para ejercer derechos y eliminar cuentas/archivos.
+[ ] Configurar consentimiento de cookies cuando sea necesario.
+[ ] Publicar también términos de servicio y, si corresponde, una política de cookies.
+[ ] Revisar el documento con un profesional jurídico familiarizado con la legislación aplicable.
+
+Fin del documento.
